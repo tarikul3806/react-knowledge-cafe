@@ -1,0 +1,52 @@
+[
+    {
+        "id": "001",
+        "cover": "https://example.com/covers/book1.jpg",
+        "title": "The Enchanted Forest",
+        "author": "Elena Woods",
+        "author_img": "https://example.com/authors/elena.jpg",
+        "posted_date": "2024-03-12",
+        "reading_time": 15,
+        "hashtags": "#Fantasy #Adventure #Magic"
+    },
+    {
+        "id": "002",
+        "cover": "https://example.com/covers/book2.jpg",
+        "title": "Whispers of the Past",
+        "author": "Daniel Rivers",
+        "author_img": "https://example.com/authors/daniel.jpg",
+        "posted_date": "2024-04-25",
+        "reading_time": 10,
+        "hashtags": "#HistoricalFiction #Mystery #Drama"
+    },
+    {
+        "id": "003",
+        "cover": "https://example.com/covers/book3.jpg",
+        "title": "Beyond the Horizon",
+        "author": "Sophia Turner",
+        "author_img": "https://example.com/authors/sophia.jpg",
+        "posted_date": "2024-01-30",
+        "reading_time": 20,
+        "hashtags": "#SciFi #Space #Exploration"
+    },
+    {
+        "id": "004",
+        "cover": "https://example.com/covers/book4.jpg",
+        "title": "The Last Heir",
+        "author": "Oliver Knight",
+        "author_img": "https://example.com/authors/oliver.jpg",
+        "posted_date": "2024-05-18",
+        "reading_time": 25,
+        "hashtags": "#Thriller #Suspense #Crime"
+    },
+    {
+        "id": "005",
+        "cover": "https://example.com/covers/book5.jpg",
+        "title": "Echoes of Eternity",
+        "author": "Ava Collins",
+        "author_img": "https://example.com/authors/ava.jpg",
+        "posted_date": "2024-02-14",
+        "reading_time": 12,
+        "hashtags": "#Romance #Drama #TimelessLove"
+    }
+]
